@@ -76,4 +76,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 For any inquiries, feel free to reach out:
 
 Email: gued.med01@gmail.com
+
 GitHub: MohamedGuedira
